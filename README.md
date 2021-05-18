@@ -1,8 +1,5 @@
-# ShelfReadingBook
+## Bookshelf App
 
-##Project Name
-
-Short introduction or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
 
 You can also add some badges/states next to Project Name, e.g,
 + [Travis CI](https://travis-ci.org/)
